@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sender.dir/sender.cc.o  -o ../../bin/sender  -Wl,-rpath,/usr/local/lib ../../protos/libmsgbook.a /usr/local/lib/libprotobuf.so -lpthread 

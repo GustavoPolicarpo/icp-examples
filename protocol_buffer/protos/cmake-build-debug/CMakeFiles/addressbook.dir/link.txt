@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaddressbook.a  CMakeFiles/addressbook.dir/addressbook.pb.cc.o
+/usr/bin/ranlib libaddressbook.a

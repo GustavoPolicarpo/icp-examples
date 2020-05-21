@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/receiver.dir/receiver.cc.o  -o ../../bin/receiver  -Wl,-rpath,/usr/local/lib ../../protos/libmsgbook.a /usr/local/lib/libprotobuf.so -lpthread 

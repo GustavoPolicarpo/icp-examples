@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmsgbook.a  CMakeFiles/msgbook.dir/msgbook.pb.cc.o
+/usr/bin/ranlib libmsgbook.a
