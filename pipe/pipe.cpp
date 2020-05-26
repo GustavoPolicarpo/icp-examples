@@ -18,7 +18,7 @@ int main() {
 	
 	std::string message;
 	for(;;){
-		std::cout << "Write the message: (\"end\" to finish) "; std::cin >> message;
+		std::cout << "Write the message (\"end\" to finish): "; std::cin >> message;
 		
 		char writtenMessage[message.size()+1], readMessage[message.size()+1];
 		strcpy(writtenMessage, message.c_str()); 
@@ -28,7 +28,7 @@ int main() {
 		
 		printf("Written message = %s and Read message = %s\n", writtenMessage, readMessage);
 		
-		if(strcmp(message, "end")==0) break;
+		if(message=="end") break;
 	}
 	
 	close(pipefds[0]);
