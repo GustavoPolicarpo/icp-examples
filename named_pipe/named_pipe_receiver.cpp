@@ -32,6 +32,7 @@ int main() {
 		if(strcmp(read_buf, "end")==0) break;
 	}
 	
+	system("rm " FILE);
 
 	return 0;
 }

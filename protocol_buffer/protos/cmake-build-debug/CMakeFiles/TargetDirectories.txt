@@ -1,3 +1,0 @@
-/home/gustavo-policarpo/TCC/Protocol_Buffer_Examples/protos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/gustavo-policarpo/TCC/Protocol_Buffer_Examples/protos/cmake-build-debug/CMakeFiles/addressbook.dir
-/home/gustavo-policarpo/TCC/Protocol_Buffer_Examples/protos/cmake-build-debug/CMakeFiles/edit_cache.dir

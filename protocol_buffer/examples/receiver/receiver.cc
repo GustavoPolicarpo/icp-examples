@@ -40,7 +40,7 @@ int main(void) {
 		if(!msg_book.msg_size()) continue;
 		const icp::Msg& msg = msg_book.msg(0);
 
-		printf("Received string: \"%s\" and string length is %d and your type is %d\n", (msg.buf()).c_str(), (int)(msg.buf()).size(), (int)msg.type());
+		printf("Received string: \"%s\" and string length is %d and type is %d\n", (msg.buf()).c_str(), (int)(msg.buf()).size(), (int)msg.type());
 		
 		system("rm " FILE);
 		

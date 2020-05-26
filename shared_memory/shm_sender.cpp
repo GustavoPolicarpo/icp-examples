@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 	if(shmp == (void *) -1) error("Unable to attach segment");
 	
 	for(;;){
-		std::cout << "Write the message: (\"end\" to finish) "; std::cin >> shmp->buf;
+		std::cout << "Write the message (\"end\" to finish): "; std::cin >> shmp->buf;
 		printf("Written string: \"%s\" and string length is %d\n", shmp->buf, (int)strlen(shmp->buf));
 		shmp->numberMessages++;
 		if(strcmp(shmp->buf, "end")==0) break;

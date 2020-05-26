@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-283044163d288b31594e82c3b0193ed4 protos/msgbook.pb.h

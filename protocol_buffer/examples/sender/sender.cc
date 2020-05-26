@@ -25,15 +25,17 @@ int main(void) {
     for(;;){
     	icp::MsgBook msg_book;
     	
-    	cout << "Write the message: (\"end\" to finish) "; std::cin >> message;
+    	cout << "Write the message (\"end\" to finish): "; std::cin >> message;
     	
     	if(message=="end"){
     		type = -1;
     	}else{
-	    	cout << "Write the type: (must be an integer) "; std::cin >> type;
+	    	cout << "Write the type (must be an integer): "; std::cin >> type;
 	    	cin.ignore();
 	    }
     
+    	printf("Sent string: \"%s\" and string length is %d and type is %d\n", message.c_str(), message.size(), (int)type);
+    	
     	icp::Msg* msg = msg_book.add_msg();
     	
     	msg->set_buf(message);

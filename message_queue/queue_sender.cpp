@@ -33,20 +33,22 @@ int main(void) {
 	if(msgqid == -1) error("Unable to get message queue");
 
 	for(;;){
-		std::cout << "Write the message: (\"end\" to finish) "; std::cin >> msgqmp.buf;
+		std::cout << "Write the message (\"end\" to finish): "; std::cin >> msgqmp.buf;
 		
 		if(strcmp(msgqmp.buf, "end")==0){
 			msgqmp.type = 1;
+			printf("Sent string: \"%s\" and string length is %d and type is %d\n", msgqmp.buf, (int)strlen(msgqmp.buf), (int)msgqmp.type);
 			msgsnd(msgqid, &msgqmp, sizeof(msgqmp), 0);
 			
 			msgqmp.type = 2;
+			printf("Sent string: \"%s\" and string length is %d and type is %d\n", msgqmp.buf, (int)strlen(msgqmp.buf), (int)msgqmp.type);
 			msgsnd(msgqid, &msgqmp, sizeof(msgqmp), 0);
 			break;
 		}
 		
-		std::cout << "Write the type: (must be an integer [1 or 2]) "; std::cin >> msgqmp.type;
+		std::cout << "Write the type (must be an integer [1 or 2]): "; std::cin >> msgqmp.type;
 		
-		printf("Sent string: \"%s\" and string length is %d and your type is %d\n", msgqmp.buf, (int)strlen(msgqmp.buf), (int)msgqmp.type);
+		printf("Sent string: \"%s\" and string length is %d and type is %d\n", msgqmp.buf, (int)strlen(msgqmp.buf), (int)msgqmp.type);
 		msgsnd(msgqid, &msgqmp, sizeof(msgqmp), 0);
 	}
 	

@@ -32,7 +32,7 @@ int main(void) {
 	
 	for(;;){
 		msgrcv(msgqid, &msgqmp, sizeof(msgqmp), 1, 0);
-		printf("Received string: \"%s\" and string length is %d and your type is %d\n", msgqmp.buf, (int)strlen(msgqmp.buf), (int)msgqmp.type);
+		printf("Received string: \"%s\" and string length is %d and type is %d\n", msgqmp.buf, (int)strlen(msgqmp.buf), (int)msgqmp.type);
 		if(strcmp(msgqmp.buf, "end")==0) break;
 	}
 	

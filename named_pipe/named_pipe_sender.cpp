@@ -20,7 +20,7 @@ int main() {
 	if(fd == -1) error("Unable to open file for writing");
 	
 	for(;;){
-		std::cout << "Write the message: (\"end\" to finish) "; std::cin >> message;
+		std::cout << "Write the message (\"end\" to finish): "; std::cin >> message;
 		printf("Sent string: \"%s\" and string length is %d\n", message, (int)strlen(message));
 		write(fd, message, strlen(message));
 		if(strcmp(message, "end")==0) break;
