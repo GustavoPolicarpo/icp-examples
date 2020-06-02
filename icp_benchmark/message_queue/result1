@@ -1,0 +1,410 @@
+Getting correct words ...... done
+
+Start the cliente ...
+
+Starting MESSAGE QUEUE benchmark ...
+
+Running 1...
+... done.
+Time taken by MESSAGE QUEUE in execution 1 is : 0.443746 sec
+
+Running 2...
+... done.
+Time taken by MESSAGE QUEUE in execution 2 is : 0.40029800 sec
+
+Running 3...
+... done.
+Time taken by MESSAGE QUEUE in execution 3 is : 0.40296700 sec
+
+Running 4...
+... done.
+Time taken by MESSAGE QUEUE in execution 4 is : 0.41860200 sec
+
+Running 5...
+... done.
+Time taken by MESSAGE QUEUE in execution 5 is : 0.39808800 sec
+
+Running 6...
+... done.
+Time taken by MESSAGE QUEUE in execution 6 is : 0.39703200 sec
+
+Running 7...
+... done.
+Time taken by MESSAGE QUEUE in execution 7 is : 0.39670600 sec
+
+Running 8...
+... done.
+Time taken by MESSAGE QUEUE in execution 8 is : 0.39752100 sec
+
+Running 9...
+... done.
+Time taken by MESSAGE QUEUE in execution 9 is : 0.39852900 sec
+
+Running 10...
+... done.
+Time taken by MESSAGE QUEUE in execution 10 is : 0.39802800 sec
+
+Running 11...
+... done.
+Time taken by MESSAGE QUEUE in execution 11 is : 0.39593000 sec
+
+Running 12...
+... done.
+Time taken by MESSAGE QUEUE in execution 12 is : 0.40127500 sec
+
+Running 13...
+... done.
+Time taken by MESSAGE QUEUE in execution 13 is : 0.40228600 sec
+
+Running 14...
+... done.
+Time taken by MESSAGE QUEUE in execution 14 is : 0.40240400 sec
+
+Running 15...
+... done.
+Time taken by MESSAGE QUEUE in execution 15 is : 0.40008000 sec
+
+Running 16...
+... done.
+Time taken by MESSAGE QUEUE in execution 16 is : 0.39964300 sec
+
+Running 17...
+... done.
+Time taken by MESSAGE QUEUE in execution 17 is : 0.40077400 sec
+
+Running 18...
+... done.
+Time taken by MESSAGE QUEUE in execution 18 is : 0.40889000 sec
+
+Running 19...
+... done.
+Time taken by MESSAGE QUEUE in execution 19 is : 0.49918600 sec
+
+Running 20...
+... done.
+Time taken by MESSAGE QUEUE in execution 20 is : 0.40053700 sec
+
+Running 21...
+... done.
+Time taken by MESSAGE QUEUE in execution 21 is : 0.40288100 sec
+
+Running 22...
+... done.
+Time taken by MESSAGE QUEUE in execution 22 is : 0.39872000 sec
+
+Running 23...
+... done.
+Time taken by MESSAGE QUEUE in execution 23 is : 0.39807500 sec
+
+Running 24...
+... done.
+Time taken by MESSAGE QUEUE in execution 24 is : 0.40035800 sec
+
+Running 25...
+... done.
+Time taken by MESSAGE QUEUE in execution 25 is : 0.39647700 sec
+
+Running 26...
+... done.
+Time taken by MESSAGE QUEUE in execution 26 is : 0.40060400 sec
+
+Running 27...
+... done.
+Time taken by MESSAGE QUEUE in execution 27 is : 0.39738000 sec
+
+Running 28...
+... done.
+Time taken by MESSAGE QUEUE in execution 28 is : 0.40078300 sec
+
+Running 29...
+... done.
+Time taken by MESSAGE QUEUE in execution 29 is : 0.40305700 sec
+
+Running 30...
+... done.
+Time taken by MESSAGE QUEUE in execution 30 is : 0.39929700 sec
+
+Running 31...
+... done.
+Time taken by MESSAGE QUEUE in execution 31 is : 0.39833400 sec
+
+Running 32...
+... done.
+Time taken by MESSAGE QUEUE in execution 32 is : 0.40099500 sec
+
+Running 33...
+... done.
+Time taken by MESSAGE QUEUE in execution 33 is : 0.40122000 sec
+
+Running 34...
+... done.
+Time taken by MESSAGE QUEUE in execution 34 is : 0.40271800 sec
+
+Running 35...
+... done.
+Time taken by MESSAGE QUEUE in execution 35 is : 0.39608200 sec
+
+Running 36...
+... done.
+Time taken by MESSAGE QUEUE in execution 36 is : 0.39830300 sec
+
+Running 37...
+... done.
+Time taken by MESSAGE QUEUE in execution 37 is : 0.39974600 sec
+
+Running 38...
+... done.
+Time taken by MESSAGE QUEUE in execution 38 is : 0.39619400 sec
+
+Running 39...
+... done.
+Time taken by MESSAGE QUEUE in execution 39 is : 0.39809400 sec
+
+Running 40...
+... done.
+Time taken by MESSAGE QUEUE in execution 40 is : 0.39764900 sec
+
+Running 41...
+... done.
+Time taken by MESSAGE QUEUE in execution 41 is : 0.39982900 sec
+
+Running 42...
+... done.
+Time taken by MESSAGE QUEUE in execution 42 is : 0.40135600 sec
+
+Running 43...
+... done.
+Time taken by MESSAGE QUEUE in execution 43 is : 0.40012300 sec
+
+Running 44...
+... done.
+Time taken by MESSAGE QUEUE in execution 44 is : 0.39780700 sec
+
+Running 45...
+... done.
+Time taken by MESSAGE QUEUE in execution 45 is : 0.39638000 sec
+
+Running 46...
+... done.
+Time taken by MESSAGE QUEUE in execution 46 is : 0.39934500 sec
+
+Running 47...
+... done.
+Time taken by MESSAGE QUEUE in execution 47 is : 0.40222500 sec
+
+Running 48...
+... done.
+Time taken by MESSAGE QUEUE in execution 48 is : 0.39913300 sec
+
+Running 49...
+... done.
+Time taken by MESSAGE QUEUE in execution 49 is : 0.40081400 sec
+
+Running 50...
+... done.
+Time taken by MESSAGE QUEUE in execution 50 is : 0.39845400 sec
+
+Running 51...
+... done.
+Time taken by MESSAGE QUEUE in execution 51 is : 0.39828400 sec
+
+Running 52...
+... done.
+Time taken by MESSAGE QUEUE in execution 52 is : 0.40379100 sec
+
+Running 53...
+... done.
+Time taken by MESSAGE QUEUE in execution 53 is : 0.41112600 sec
+
+Running 54...
+... done.
+Time taken by MESSAGE QUEUE in execution 54 is : 0.40360600 sec
+
+Running 55...
+... done.
+Time taken by MESSAGE QUEUE in execution 55 is : 0.39822600 sec
+
+Running 56...
+... done.
+Time taken by MESSAGE QUEUE in execution 56 is : 0.40097000 sec
+
+Running 57...
+... done.
+Time taken by MESSAGE QUEUE in execution 57 is : 0.39940000 sec
+
+Running 58...
+... done.
+Time taken by MESSAGE QUEUE in execution 58 is : 0.39986100 sec
+
+Running 59...
+... done.
+Time taken by MESSAGE QUEUE in execution 59 is : 0.39945300 sec
+
+Running 60...
+... done.
+Time taken by MESSAGE QUEUE in execution 60 is : 0.39837700 sec
+
+Running 61...
+... done.
+Time taken by MESSAGE QUEUE in execution 61 is : 0.39827800 sec
+
+Running 62...
+... done.
+Time taken by MESSAGE QUEUE in execution 62 is : 0.40229500 sec
+
+Running 63...
+... done.
+Time taken by MESSAGE QUEUE in execution 63 is : 0.40286300 sec
+
+Running 64...
+... done.
+Time taken by MESSAGE QUEUE in execution 64 is : 0.40030900 sec
+
+Running 65...
+... done.
+Time taken by MESSAGE QUEUE in execution 65 is : 0.39653800 sec
+
+Running 66...
+... done.
+Time taken by MESSAGE QUEUE in execution 66 is : 0.39874500 sec
+
+Running 67...
+... done.
+Time taken by MESSAGE QUEUE in execution 67 is : 0.41005400 sec
+
+Running 68...
+... done.
+Time taken by MESSAGE QUEUE in execution 68 is : 0.42198200 sec
+
+Running 69...
+... done.
+Time taken by MESSAGE QUEUE in execution 69 is : 0.39978800 sec
+
+Running 70...
+... done.
+Time taken by MESSAGE QUEUE in execution 70 is : 0.39673500 sec
+
+Running 71...
+... done.
+Time taken by MESSAGE QUEUE in execution 71 is : 0.40035800 sec
+
+Running 72...
+... done.
+Time taken by MESSAGE QUEUE in execution 72 is : 0.39951000 sec
+
+Running 73...
+... done.
+Time taken by MESSAGE QUEUE in execution 73 is : 0.39907900 sec
+
+Running 74...
+... done.
+Time taken by MESSAGE QUEUE in execution 74 is : 0.39895200 sec
+
+Running 75...
+... done.
+Time taken by MESSAGE QUEUE in execution 75 is : 0.40074500 sec
+
+Running 76...
+... done.
+Time taken by MESSAGE QUEUE in execution 76 is : 0.40318500 sec
+
+Running 77...
+... done.
+Time taken by MESSAGE QUEUE in execution 77 is : 0.40000400 sec
+
+Running 78...
+... done.
+Time taken by MESSAGE QUEUE in execution 78 is : 0.41270900 sec
+
+Running 79...
+... done.
+Time taken by MESSAGE QUEUE in execution 79 is : 0.40401000 sec
+
+Running 80...
+... done.
+Time taken by MESSAGE QUEUE in execution 80 is : 0.40465800 sec
+
+Running 81...
+... done.
+Time taken by MESSAGE QUEUE in execution 81 is : 0.39736200 sec
+
+Running 82...
+... done.
+Time taken by MESSAGE QUEUE in execution 82 is : 0.40154900 sec
+
+Running 83...
+... done.
+Time taken by MESSAGE QUEUE in execution 83 is : 0.39899200 sec
+
+Running 84...
+... done.
+Time taken by MESSAGE QUEUE in execution 84 is : 0.39849700 sec
+
+Running 85...
+... done.
+Time taken by MESSAGE QUEUE in execution 85 is : 0.40032300 sec
+
+Running 86...
+... done.
+Time taken by MESSAGE QUEUE in execution 86 is : 0.39987500 sec
+
+Running 87...
+... done.
+Time taken by MESSAGE QUEUE in execution 87 is : 0.40030700 sec
+
+Running 88...
+... done.
+Time taken by MESSAGE QUEUE in execution 88 is : 0.39916200 sec
+
+Running 89...
+... done.
+Time taken by MESSAGE QUEUE in execution 89 is : 0.39633700 sec
+
+Running 90...
+... done.
+Time taken by MESSAGE QUEUE in execution 90 is : 0.39899000 sec
+
+Running 91...
+... done.
+Time taken by MESSAGE QUEUE in execution 91 is : 0.39791800 sec
+
+Running 92...
+... done.
+Time taken by MESSAGE QUEUE in execution 92 is : 0.39961700 sec
+
+Running 93...
+... done.
+Time taken by MESSAGE QUEUE in execution 93 is : 0.40275200 sec
+
+Running 94...
+... done.
+Time taken by MESSAGE QUEUE in execution 94 is : 0.39805600 sec
+
+Running 95...
+... done.
+Time taken by MESSAGE QUEUE in execution 95 is : 0.39704000 sec
+
+Running 96...
+... done.
+Time taken by MESSAGE QUEUE in execution 96 is : 0.39691100 sec
+
+Running 97...
+... done.
+Time taken by MESSAGE QUEUE in execution 97 is : 0.39878500 sec
+
+Running 98...
+... done.
+Time taken by MESSAGE QUEUE in execution 98 is : 0.39779000 sec
+
+Running 99...
+... done.
+Time taken by MESSAGE QUEUE in execution 99 is : 0.40037100 sec
+
+Running 100...
+... done.
+Time taken by MESSAGE QUEUE in execution 100 is : 0.39805200 sec
+
+... done MESSAGE QUEUE benchmark ...
+
+Total time: 40.18753200 sec
+Average time: 0.40187532 sec

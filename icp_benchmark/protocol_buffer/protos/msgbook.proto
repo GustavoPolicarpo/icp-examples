@@ -1,0 +1,10 @@
+syntax = "proto3";
+package icp;
+
+message Msg {
+    string buf = 1;
+}
+
+message MsgBook {
+    repeated Msg msg = 1;
+}

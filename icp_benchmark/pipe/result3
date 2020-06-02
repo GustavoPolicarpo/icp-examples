@@ -1,0 +1,408 @@
+Getting correct words ...... done
+
+Starting PIPE benchmark ...
+
+Running 1...
+... done.
+Time taken by PIPE in execution 1 is : 0.001424 sec
+
+Running 2...
+... done.
+Time taken by PIPE in execution 2 is : 0.00100100 sec
+
+Running 3...
+... done.
+Time taken by PIPE in execution 3 is : 0.00101500 sec
+
+Running 4...
+... done.
+Time taken by PIPE in execution 4 is : 0.00126000 sec
+
+Running 5...
+... done.
+Time taken by PIPE in execution 5 is : 0.00134100 sec
+
+Running 6...
+... done.
+Time taken by PIPE in execution 6 is : 0.00127200 sec
+
+Running 7...
+... done.
+Time taken by PIPE in execution 7 is : 0.00102900 sec
+
+Running 8...
+... done.
+Time taken by PIPE in execution 8 is : 0.00102400 sec
+
+Running 9...
+... done.
+Time taken by PIPE in execution 9 is : 0.00102000 sec
+
+Running 10...
+... done.
+Time taken by PIPE in execution 10 is : 0.00036500 sec
+
+Running 11...
+... done.
+Time taken by PIPE in execution 11 is : 0.00022800 sec
+
+Running 12...
+... done.
+Time taken by PIPE in execution 12 is : 0.00023000 sec
+
+Running 13...
+... done.
+Time taken by PIPE in execution 13 is : 0.00025700 sec
+
+Running 14...
+... done.
+Time taken by PIPE in execution 14 is : 0.00025300 sec
+
+Running 15...
+... done.
+Time taken by PIPE in execution 15 is : 0.00022700 sec
+
+Running 16...
+... done.
+Time taken by PIPE in execution 16 is : 0.00022100 sec
+
+Running 17...
+... done.
+Time taken by PIPE in execution 17 is : 0.00021900 sec
+
+Running 18...
+... done.
+Time taken by PIPE in execution 18 is : 0.00021900 sec
+
+Running 19...
+... done.
+Time taken by PIPE in execution 19 is : 0.00021900 sec
+
+Running 20...
+... done.
+Time taken by PIPE in execution 20 is : 0.00022000 sec
+
+Running 21...
+... done.
+Time taken by PIPE in execution 21 is : 0.00021900 sec
+
+Running 22...
+... done.
+Time taken by PIPE in execution 22 is : 0.00021900 sec
+
+Running 23...
+... done.
+Time taken by PIPE in execution 23 is : 0.00021900 sec
+
+Running 24...
+... done.
+Time taken by PIPE in execution 24 is : 0.00021800 sec
+
+Running 25...
+... done.
+Time taken by PIPE in execution 25 is : 0.00021900 sec
+
+Running 26...
+... done.
+Time taken by PIPE in execution 26 is : 0.00021900 sec
+
+Running 27...
+... done.
+Time taken by PIPE in execution 27 is : 0.00023100 sec
+
+Running 28...
+... done.
+Time taken by PIPE in execution 28 is : 0.00022000 sec
+
+Running 29...
+... done.
+Time taken by PIPE in execution 29 is : 0.00021900 sec
+
+Running 30...
+... done.
+Time taken by PIPE in execution 30 is : 0.00021900 sec
+
+Running 31...
+... done.
+Time taken by PIPE in execution 31 is : 0.00021900 sec
+
+Running 32...
+... done.
+Time taken by PIPE in execution 32 is : 0.00021900 sec
+
+Running 33...
+... done.
+Time taken by PIPE in execution 33 is : 0.00021900 sec
+
+Running 34...
+... done.
+Time taken by PIPE in execution 34 is : 0.00021800 sec
+
+Running 35...
+... done.
+Time taken by PIPE in execution 35 is : 0.00021800 sec
+
+Running 36...
+... done.
+Time taken by PIPE in execution 36 is : 0.00021800 sec
+
+Running 37...
+... done.
+Time taken by PIPE in execution 37 is : 0.00021800 sec
+
+Running 38...
+... done.
+Time taken by PIPE in execution 38 is : 0.00021900 sec
+
+Running 39...
+... done.
+Time taken by PIPE in execution 39 is : 0.00021900 sec
+
+Running 40...
+... done.
+Time taken by PIPE in execution 40 is : 0.00021900 sec
+
+Running 41...
+... done.
+Time taken by PIPE in execution 41 is : 0.00021900 sec
+
+Running 42...
+... done.
+Time taken by PIPE in execution 42 is : 0.00021800 sec
+
+Running 43...
+... done.
+Time taken by PIPE in execution 43 is : 0.00021800 sec
+
+Running 44...
+... done.
+Time taken by PIPE in execution 44 is : 0.00021800 sec
+
+Running 45...
+... done.
+Time taken by PIPE in execution 45 is : 0.00021900 sec
+
+Running 46...
+... done.
+Time taken by PIPE in execution 46 is : 0.00022600 sec
+
+Running 47...
+... done.
+Time taken by PIPE in execution 47 is : 0.00021900 sec
+
+Running 48...
+... done.
+Time taken by PIPE in execution 48 is : 0.00021800 sec
+
+Running 49...
+... done.
+Time taken by PIPE in execution 49 is : 0.00028900 sec
+
+Running 50...
+... done.
+Time taken by PIPE in execution 50 is : 0.00025500 sec
+
+Running 51...
+... done.
+Time taken by PIPE in execution 51 is : 0.00022400 sec
+
+Running 52...
+... done.
+Time taken by PIPE in execution 52 is : 0.00025200 sec
+
+Running 53...
+... done.
+Time taken by PIPE in execution 53 is : 0.00023200 sec
+
+Running 54...
+... done.
+Time taken by PIPE in execution 54 is : 0.00022200 sec
+
+Running 55...
+... done.
+Time taken by PIPE in execution 55 is : 0.00022000 sec
+
+Running 56...
+... done.
+Time taken by PIPE in execution 56 is : 0.00023500 sec
+
+Running 57...
+... done.
+Time taken by PIPE in execution 57 is : 0.00022400 sec
+
+Running 58...
+... done.
+Time taken by PIPE in execution 58 is : 0.00022100 sec
+
+Running 59...
+... done.
+Time taken by PIPE in execution 59 is : 0.00021900 sec
+
+Running 60...
+... done.
+Time taken by PIPE in execution 60 is : 0.00021900 sec
+
+Running 61...
+... done.
+Time taken by PIPE in execution 61 is : 0.00021900 sec
+
+Running 62...
+... done.
+Time taken by PIPE in execution 62 is : 0.00023500 sec
+
+Running 63...
+... done.
+Time taken by PIPE in execution 63 is : 0.00024100 sec
+
+Running 64...
+... done.
+Time taken by PIPE in execution 64 is : 0.00024000 sec
+
+Running 65...
+... done.
+Time taken by PIPE in execution 65 is : 0.00025000 sec
+
+Running 66...
+... done.
+Time taken by PIPE in execution 66 is : 0.00024900 sec
+
+Running 67...
+... done.
+Time taken by PIPE in execution 67 is : 0.00025600 sec
+
+Running 68...
+... done.
+Time taken by PIPE in execution 68 is : 0.00022500 sec
+
+Running 69...
+... done.
+Time taken by PIPE in execution 69 is : 0.00022000 sec
+
+Running 70...
+... done.
+Time taken by PIPE in execution 70 is : 0.00022000 sec
+
+Running 71...
+... done.
+Time taken by PIPE in execution 71 is : 0.00021900 sec
+
+Running 72...
+... done.
+Time taken by PIPE in execution 72 is : 0.00021900 sec
+
+Running 73...
+... done.
+Time taken by PIPE in execution 73 is : 0.00021900 sec
+
+Running 74...
+... done.
+Time taken by PIPE in execution 74 is : 0.00021900 sec
+
+Running 75...
+... done.
+Time taken by PIPE in execution 75 is : 0.00022000 sec
+
+Running 76...
+... done.
+Time taken by PIPE in execution 76 is : 0.00022000 sec
+
+Running 77...
+... done.
+Time taken by PIPE in execution 77 is : 0.00021900 sec
+
+Running 78...
+... done.
+Time taken by PIPE in execution 78 is : 0.00021900 sec
+
+Running 79...
+... done.
+Time taken by PIPE in execution 79 is : 0.00021900 sec
+
+Running 80...
+... done.
+Time taken by PIPE in execution 80 is : 0.00022800 sec
+
+Running 81...
+... done.
+Time taken by PIPE in execution 81 is : 0.00021900 sec
+
+Running 82...
+... done.
+Time taken by PIPE in execution 82 is : 0.00022000 sec
+
+Running 83...
+... done.
+Time taken by PIPE in execution 83 is : 0.00021900 sec
+
+Running 84...
+... done.
+Time taken by PIPE in execution 84 is : 0.00021900 sec
+
+Running 85...
+... done.
+Time taken by PIPE in execution 85 is : 0.00021900 sec
+
+Running 86...
+... done.
+Time taken by PIPE in execution 86 is : 0.00021900 sec
+
+Running 87...
+... done.
+Time taken by PIPE in execution 87 is : 0.00021900 sec
+
+Running 88...
+... done.
+Time taken by PIPE in execution 88 is : 0.00021900 sec
+
+Running 89...
+... done.
+Time taken by PIPE in execution 89 is : 0.00021900 sec
+
+Running 90...
+... done.
+Time taken by PIPE in execution 90 is : 0.00021900 sec
+
+Running 91...
+... done.
+Time taken by PIPE in execution 91 is : 0.00021900 sec
+
+Running 92...
+... done.
+Time taken by PIPE in execution 92 is : 0.00021900 sec
+
+Running 93...
+... done.
+Time taken by PIPE in execution 93 is : 0.00022000 sec
+
+Running 94...
+... done.
+Time taken by PIPE in execution 94 is : 0.00022000 sec
+
+Running 95...
+... done.
+Time taken by PIPE in execution 95 is : 0.00021900 sec
+
+Running 96...
+... done.
+Time taken by PIPE in execution 96 is : 0.00021900 sec
+
+Running 97...
+... done.
+Time taken by PIPE in execution 97 is : 0.00021900 sec
+
+Running 98...
+... done.
+Time taken by PIPE in execution 98 is : 0.00022800 sec
+
+Running 99...
+... done.
+Time taken by PIPE in execution 99 is : 0.00022000 sec
+
+Running 100...
+... done.
+Time taken by PIPE in execution 100 is : 0.00021900 sec
+
+... done PIPE benchmark ...
+
+Total time: 0.03094800 sec
+Average time: 0.00030948 sec
