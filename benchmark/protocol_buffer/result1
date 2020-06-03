@@ -1,0 +1,410 @@
+Getting correct words ...... done
+
+Start the cliente ...
+
+Starting PROTOCOL BUFFER benchmark ...
+
+Running 1...
+... done.
+Time taken by PROTOCOL BUFFER in execution 1 is : 3.294270 sec
+
+Running 2...
+... done.
+Time taken by PROTOCOL BUFFER in execution 2 is : 3.26142200 sec
+
+Running 3...
+... done.
+Time taken by PROTOCOL BUFFER in execution 3 is : 3.26191300 sec
+
+Running 4...
+... done.
+Time taken by PROTOCOL BUFFER in execution 4 is : 3.25306600 sec
+
+Running 5...
+... done.
+Time taken by PROTOCOL BUFFER in execution 5 is : 3.25793000 sec
+
+Running 6...
+... done.
+Time taken by PROTOCOL BUFFER in execution 6 is : 3.27067100 sec
+
+Running 7...
+... done.
+Time taken by PROTOCOL BUFFER in execution 7 is : 3.24954400 sec
+
+Running 8...
+... done.
+Time taken by PROTOCOL BUFFER in execution 8 is : 3.25833000 sec
+
+Running 9...
+... done.
+Time taken by PROTOCOL BUFFER in execution 9 is : 3.24899100 sec
+
+Running 10...
+... done.
+Time taken by PROTOCOL BUFFER in execution 10 is : 3.64022200 sec
+
+Running 11...
+... done.
+Time taken by PROTOCOL BUFFER in execution 11 is : 3.40011300 sec
+
+Running 12...
+... done.
+Time taken by PROTOCOL BUFFER in execution 12 is : 3.73654300 sec
+
+Running 13...
+... done.
+Time taken by PROTOCOL BUFFER in execution 13 is : 3.27945200 sec
+
+Running 14...
+... done.
+Time taken by PROTOCOL BUFFER in execution 14 is : 3.77632700 sec
+
+Running 15...
+... done.
+Time taken by PROTOCOL BUFFER in execution 15 is : 3.62918000 sec
+
+Running 16...
+... done.
+Time taken by PROTOCOL BUFFER in execution 16 is : 3.41794100 sec
+
+Running 17...
+... done.
+Time taken by PROTOCOL BUFFER in execution 17 is : 3.78633800 sec
+
+Running 18...
+... done.
+Time taken by PROTOCOL BUFFER in execution 18 is : 3.52839600 sec
+
+Running 19...
+... done.
+Time taken by PROTOCOL BUFFER in execution 19 is : 3.52393600 sec
+
+Running 20...
+... done.
+Time taken by PROTOCOL BUFFER in execution 20 is : 3.97541600 sec
+
+Running 21...
+... done.
+Time taken by PROTOCOL BUFFER in execution 21 is : 3.36447400 sec
+
+Running 22...
+... done.
+Time taken by PROTOCOL BUFFER in execution 22 is : 4.03859800 sec
+
+Running 23...
+... done.
+Time taken by PROTOCOL BUFFER in execution 23 is : 3.34602600 sec
+
+Running 24...
+... done.
+Time taken by PROTOCOL BUFFER in execution 24 is : 3.69374000 sec
+
+Running 25...
+... done.
+Time taken by PROTOCOL BUFFER in execution 25 is : 3.77554600 sec
+
+Running 26...
+... done.
+Time taken by PROTOCOL BUFFER in execution 26 is : 3.53037600 sec
+
+Running 27...
+... done.
+Time taken by PROTOCOL BUFFER in execution 27 is : 3.95628200 sec
+
+Running 28...
+... done.
+Time taken by PROTOCOL BUFFER in execution 28 is : 3.34151900 sec
+
+Running 29...
+... done.
+Time taken by PROTOCOL BUFFER in execution 29 is : 4.04812000 sec
+
+Running 30...
+... done.
+Time taken by PROTOCOL BUFFER in execution 30 is : 3.35796100 sec
+
+Running 31...
+... done.
+Time taken by PROTOCOL BUFFER in execution 31 is : 3.96028600 sec
+
+Running 32...
+... done.
+Time taken by PROTOCOL BUFFER in execution 32 is : 3.50984500 sec
+
+Running 33...
+... done.
+Time taken by PROTOCOL BUFFER in execution 33 is : 3.78080900 sec
+
+Running 34...
+... done.
+Time taken by PROTOCOL BUFFER in execution 34 is : 3.68343700 sec
+
+Running 35...
+... done.
+Time taken by PROTOCOL BUFFER in execution 35 is : 3.60946100 sec
+
+Running 36...
+... done.
+Time taken by PROTOCOL BUFFER in execution 36 is : 3.80214500 sec
+
+Running 37...
+... done.
+Time taken by PROTOCOL BUFFER in execution 37 is : 3.32853600 sec
+
+Running 38...
+... done.
+Time taken by PROTOCOL BUFFER in execution 38 is : 3.98057600 sec
+
+Running 39...
+... done.
+Time taken by PROTOCOL BUFFER in execution 39 is : 3.50956000 sec
+
+Running 40...
+... done.
+Time taken by PROTOCOL BUFFER in execution 40 is : 3.80592900 sec
+
+Running 41...
+... done.
+Time taken by PROTOCOL BUFFER in execution 41 is : 3.67893000 sec
+
+Running 42...
+... done.
+Time taken by PROTOCOL BUFFER in execution 42 is : 3.61989200 sec
+
+Running 43...
+... done.
+Time taken by PROTOCOL BUFFER in execution 43 is : 3.85073400 sec
+
+Running 44...
+... done.
+Time taken by PROTOCOL BUFFER in execution 44 is : 3.45437100 sec
+
+Running 45...
+... done.
+Time taken by PROTOCOL BUFFER in execution 45 is : 4.05332900 sec
+
+Running 46...
+... done.
+Time taken by PROTOCOL BUFFER in execution 46 is : 3.27853100 sec
+
+Running 47...
+... done.
+Time taken by PROTOCOL BUFFER in execution 47 is : 4.04500100 sec
+
+Running 48...
+... done.
+Time taken by PROTOCOL BUFFER in execution 48 is : 3.43866800 sec
+
+Running 49...
+... done.
+Time taken by PROTOCOL BUFFER in execution 49 is : 3.88875600 sec
+
+Running 50...
+... done.
+Time taken by PROTOCOL BUFFER in execution 50 is : 3.60823700 sec
+
+Running 51...
+... done.
+Time taken by PROTOCOL BUFFER in execution 51 is : 3.72290700 sec
+
+Running 52...
+... done.
+Time taken by PROTOCOL BUFFER in execution 52 is : 3.79563000 sec
+
+Running 53...
+... done.
+Time taken by PROTOCOL BUFFER in execution 53 is : 3.51518000 sec
+
+Running 54...
+... done.
+Time taken by PROTOCOL BUFFER in execution 54 is : 3.95270700 sec
+
+Running 55...
+... done.
+Time taken by PROTOCOL BUFFER in execution 55 is : 3.34401000 sec
+
+Running 56...
+... done.
+Time taken by PROTOCOL BUFFER in execution 56 is : 4.05469900 sec
+
+Running 57...
+... done.
+Time taken by PROTOCOL BUFFER in execution 57 is : 3.35928800 sec
+
+Running 58...
+... done.
+Time taken by PROTOCOL BUFFER in execution 58 is : 3.97382400 sec
+
+Running 59...
+... done.
+Time taken by PROTOCOL BUFFER in execution 59 is : 3.53739300 sec
+
+Running 60...
+... done.
+Time taken by PROTOCOL BUFFER in execution 60 is : 3.77149700 sec
+
+Running 61...
+... done.
+Time taken by PROTOCOL BUFFER in execution 61 is : 4.03887000 sec
+
+Running 62...
+... done.
+Time taken by PROTOCOL BUFFER in execution 62 is : 3.26612000 sec
+
+Running 63...
+... done.
+Time taken by PROTOCOL BUFFER in execution 63 is : 4.04260100 sec
+
+Running 64...
+... done.
+Time taken by PROTOCOL BUFFER in execution 64 is : 3.41607200 sec
+
+Running 65...
+... done.
+Time taken by PROTOCOL BUFFER in execution 65 is : 3.88192400 sec
+
+Running 66...
+... done.
+Time taken by PROTOCOL BUFFER in execution 66 is : 3.56927200 sec
+
+Running 67...
+... done.
+Time taken by PROTOCOL BUFFER in execution 67 is : 3.73027100 sec
+
+Running 68...
+... done.
+Time taken by PROTOCOL BUFFER in execution 68 is : 3.76232800 sec
+
+Running 69...
+... done.
+Time taken by PROTOCOL BUFFER in execution 69 is : 3.54349800 sec
+
+Running 70...
+... done.
+Time taken by PROTOCOL BUFFER in execution 70 is : 3.94268500 sec
+
+Running 71...
+... done.
+Time taken by PROTOCOL BUFFER in execution 71 is : 3.56847900 sec
+
+Running 72...
+... done.
+Time taken by PROTOCOL BUFFER in execution 72 is : 3.82337900 sec
+
+Running 73...
+... done.
+Time taken by PROTOCOL BUFFER in execution 73 is : 3.63862000 sec
+
+Running 74...
+... done.
+Time taken by PROTOCOL BUFFER in execution 74 is : 3.65649900 sec
+
+Running 75...
+... done.
+Time taken by PROTOCOL BUFFER in execution 75 is : 3.80197300 sec
+
+Running 76...
+... done.
+Time taken by PROTOCOL BUFFER in execution 76 is : 3.48841500 sec
+
+Running 77...
+... done.
+Time taken by PROTOCOL BUFFER in execution 77 is : 3.98835100 sec
+
+Running 78...
+... done.
+Time taken by PROTOCOL BUFFER in execution 78 is : 3.32599100 sec
+
+Running 79...
+... done.
+Time taken by PROTOCOL BUFFER in execution 79 is : 4.04404700 sec
+
+Running 80...
+... done.
+Time taken by PROTOCOL BUFFER in execution 80 is : 3.73008700 sec
+
+Running 81...
+... done.
+Time taken by PROTOCOL BUFFER in execution 81 is : 3.60337800 sec
+
+Running 82...
+... done.
+Time taken by PROTOCOL BUFFER in execution 82 is : 4.24384600 sec
+
+Running 83...
+... done.
+Time taken by PROTOCOL BUFFER in execution 83 is : 3.63468800 sec
+
+Running 84...
+... done.
+Time taken by PROTOCOL BUFFER in execution 84 is : 3.86250200 sec
+
+Running 85...
+... done.
+Time taken by PROTOCOL BUFFER in execution 85 is : 4.71864700 sec
+
+Running 86...
+... done.
+Time taken by PROTOCOL BUFFER in execution 86 is : 4.58692300 sec
+
+Running 87...
+... done.
+Time taken by PROTOCOL BUFFER in execution 87 is : 3.57445600 sec
+
+Running 88...
+... done.
+Time taken by PROTOCOL BUFFER in execution 88 is : 3.78501400 sec
+
+Running 89...
+... done.
+Time taken by PROTOCOL BUFFER in execution 89 is : 4.05738300 sec
+
+Running 90...
+... done.
+Time taken by PROTOCOL BUFFER in execution 90 is : 3.56816800 sec
+
+Running 91...
+... done.
+Time taken by PROTOCOL BUFFER in execution 91 is : 3.74425100 sec
+
+Running 92...
+... done.
+Time taken by PROTOCOL BUFFER in execution 92 is : 3.73476500 sec
+
+Running 93...
+... done.
+Time taken by PROTOCOL BUFFER in execution 93 is : 3.55932800 sec
+
+Running 94...
+... done.
+Time taken by PROTOCOL BUFFER in execution 94 is : 3.90710900 sec
+
+Running 95...
+... done.
+Time taken by PROTOCOL BUFFER in execution 95 is : 3.56851000 sec
+
+Running 96...
+... done.
+Time taken by PROTOCOL BUFFER in execution 96 is : 3.89668300 sec
+
+Running 97...
+... done.
+Time taken by PROTOCOL BUFFER in execution 97 is : 3.97890200 sec
+
+Running 98...
+... done.
+Time taken by PROTOCOL BUFFER in execution 98 is : 3.32351900 sec
+
+Running 99...
+... done.
+Time taken by PROTOCOL BUFFER in execution 99 is : 4.04695100 sec
+
+Running 100...
+... done.
+Time taken by PROTOCOL BUFFER in execution 100 is : 3.66640000 sec
+
+... done PROTOCOL BUFFER benchmark ...
+
+Total time: 367.73771600 sec
+Average time: 3.67737716 sec

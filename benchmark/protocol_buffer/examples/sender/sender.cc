@@ -14,8 +14,8 @@ using namespace std;
 
 
 #define NUMBER_EXECUTIONS 100
-#define MESSAGE_SIZE 10// should be [10, 1000, 100000]
-#define NUMBER_MESSAGES 10000// should be [100000, 1000, 10]
+#define MESSAGE_SIZE 100000// should be [10, 1000, 100000]
+#define NUMBER_MESSAGES 10// should be [100000, 1000, 10]
 
 string words[NUMBER_MESSAGES];
 
@@ -34,25 +34,29 @@ double execution(int run){
 	while(pos < NUMBER_MESSAGES){
 		icp::MsgBook msg_book;
     	icp::Msg* msg = msg_book.add_msg();
-    	
     	msg->set_buf((to_string(pos)+'$'+words[pos]));
+    	
+    	//cout << "Sent " << (to_string(pos)+'$'+words[pos]) << '\n';
     	
         string pathSR = FILESR;
 	    fstream output(pathSR.c_str(), ios::out | ios::trunc | ios::binary);
 		int status = msg_book.SerializeToOstream(&output);
-		if(status==0) cout << "Unable to write msg book" << '\n';
-	    cout << "Sent " << (to_string(pos)+'$'+words[pos]) << '\n';
-	    
+		output.close();
+		
+		if(status==0) continue;
 	    
 	    while(true){
 	    	string pathRS = FILERS;
 	    	fstream input(pathRS.c_str(), ios::in | ios::binary);
-	    	msg_book.ParseFromIstream(&input);
-	    	if(!msg_book.msg_size()) continue;
+	    	int status = msg_book.ParseFromIstream(&input);
+	    	input.close();
 	    	
+	    	if(status==0) continue;
+	    	if(!msg_book.msg_size()) continue;
+
 	    	const icp::Msg& msg = msg_book.msg(0);
 	    	char message[MESSAGE_SIZE+10];
-    	    cout << "Received " << msg.buf() << '\n';
+    	    //cout << "Received " << msg.buf() << '\n';
     	    
 	    	strcpy(message, (msg.buf()).c_str());
 	    	char *aux = strtok(message, "$");
@@ -86,6 +90,7 @@ void saveWords(char path[]){
 		getline(input, words[i]);
 		i++;
 	}
+	input.close();
 	return;
 }
 

@@ -42,7 +42,6 @@ int main(void) {
     	msg->set_type(type);
 	    
 	    string path = FILE;
-    	//fstream input(path.c_str(), ios::in | ios::binary);
         
 	    fstream output(path.c_str(), ios::out | ios::trunc | ios::binary);
 	    status = msg_book.SerializeToOstream(&output);

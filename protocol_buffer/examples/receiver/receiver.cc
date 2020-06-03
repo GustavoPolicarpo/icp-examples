@@ -32,8 +32,7 @@ int main(void) {
 		
 		icp::MsgBook msg_book;
 		
-		fstream input(path.c_str(), ios::in | ios::binary);
-		
+		fstream input(path.c_str(), std::ofstream::in);
 		status = msg_book.ParseFromIstream(&input);
 		if(status==0) error("Unable to read msg book");
 		
